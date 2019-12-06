@@ -15,3 +15,6 @@ int a,b,add,sub,div,mul;
 	printf("\nmultiplication = %d",mul);
 return 0;
 }
+new changes
+new chnfresf2 
+3
